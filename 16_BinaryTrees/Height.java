@@ -2,7 +2,7 @@ public class Height {
     static class Node {
         int data;
         Node left, right;
-
+int main;
         public Node(int data) {
             this.data = data;
             this.left = null;
